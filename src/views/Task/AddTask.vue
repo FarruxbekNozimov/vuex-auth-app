@@ -1,7 +1,7 @@
 <template lang="">
-	<div>HOME</div>
+	<div>ADD TASK</div>
 </template>
 <script>
 export default {};
 </script>
-<style></style>
+<style lang=""></style>

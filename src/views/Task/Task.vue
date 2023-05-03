@@ -1,7 +1,5 @@
-<template>
-	<div>
-		<router-view></router-view>
-	</div>
+<template lang="">
+	<div>TASK</div>
 </template>
 <script>
 export default {};
